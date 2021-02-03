@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+p{
+  padding-top: 4%;
+}
+
+#backgroundvideo {
+  max-width: 100%;
+  position: relative;
+  z-index: -1;
+}
+
+ .ending {
+  height: 100vh;
+}
+
+.main-heading {
+  position: absolute;
+  color: #faf6e9;
+  font-size: 5rem;
+  z-index: 1;
+  margin-left: 22%;
+  margin-top: 15%;
+  font-family: 'Yusei Magic', sans-serif;
+  font-weight: bold;
+}
+.end-heading{
+  color: #faf6e9;
+  font-size: 5rem;
+  font-family: 'Yusei Magic', sans-serif;
+  font-weight: bold;
+  line-height: 3;
+}
+.end-heading2{
+  color: #faf6e9;
+  font-family: 'Yusei Magic', sans-serif;
+
+}
+.end-para{
+  color: #faf6e9;
+  font-size: 1.25rem;
+
+  font-family: 'Yusei Magic', sans-serif;
+
+}
+
+.ending {
+  text-align: center;
+  background-color: #bbd196;
+
+}
+.carousel{
+  background-color: #f7f7e8;
+  text-align: center;
+
+}
+.carousel-item{
+  height: 70vh;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.main-section {
+  text-align: center;
+}
+.pic-class{
+  max-width: 50%;
+  max-height:50%;
+ margin-left: 2.5%;
+ margin-top: 2.75%;
+ margin-right: 3%;
+
+  border-radius: 20px;
+
+  float: left;
+}
+.dabba{
+  padding: 0 7% 0;
+}
+
+.para1{
+  padding-top: 3%;
+  font-size: 3.25rem;
+  line-height: 1.5;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  color: #411f1f;
+}
+.pic-class1{
+  max-width: 50%;
+  max-height: 60%;
+  margin-left: 2.5%;
+  margin-top: 2.75%;
+  margin-right: 3%;
+
+   border-radius: 20px;
+
+   float: left;
+}
+.em1{
+  margin-left: 70%;
+}
+.pic-class2 , .pic-class3, .pic-class4{
+  max-width: 50%;
+  max-height: 60%;
+  margin-left: 2.5%;
+  margin-top: 2.75%;
+  margin-right: 3%;
+
+   border-radius: 20px;
+
+   float: left;
+}
+.btn{
+  margin-top: 6%;
+}
+.a{
+  margin-right: 2.5%;
+}
+.b{
+  margin-left: 2.5%;
+}
+.aww{
+  text-align: center;
+  background-color: #f7f7e8;
+  height: 100vh;
+
+}
+.bhuri-image{
+  margin-top: 5%;
+  margin-bottom: 3%;
+  max-width: 50%;
+  max-height: 60%;
+  border-radius: 40px;
+}
+.page2-h1, .page2-h2{
+  color: #411f1f;
+}
